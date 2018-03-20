@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ #chart {
+  height: 10rem;
+  width: 10rem;
+}
+
+#csv-data {
+  display: none;
+}
+
+.grid-container {
+  display: grid;
+}
+
+.item {
+  margin: 1rem 0;
+}
